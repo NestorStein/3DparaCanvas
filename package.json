@@ -1,0 +1,10 @@
+{
+  "name": "canvas-3d-parametric",
+  "version": "1.0.0",
+  "description": "A minimal 3D camera using Canvas2D.",
+  "main": "index.html",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": []
+}
